@@ -27,6 +27,6 @@ test("displays image from each topping option from server", async () => {
   expect(imageTitles).toEqual([
     "Cherries topping",
     "M&Ms topping",
-    "Hot Fudge topping",
+    "Hot fudge topping",
   ]);
 });
